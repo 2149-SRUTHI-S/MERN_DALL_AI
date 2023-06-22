@@ -1,6 +1,11 @@
 # MERN_DALL_AI
 A Full Stack AI Image Generating App built using MERN.
 
+![logo](https://github.com/2149-SRUTHI-S/MERN_DALL_AI/assets/129876043/ebb812d3-42d9-42e4-84da-9a029b98481b)
+
+
+
+
 Front-End : React JS, Tailwind CSS
 
 Back-End : Node JS, Express JS
