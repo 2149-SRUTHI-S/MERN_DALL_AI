@@ -1,5 +1,5 @@
 # MERN_DALL_AI
-A Full Stack AI Image Generating App built using MERN.
+*A Full Stack AI Image Generating App built using MERN.*
 
 ![APP logo 2](https://github.com/2149-SRUTHI-S/MERN_DALL_AI/assets/129876043/00fa6cb1-13de-4518-b5ff-ada058100e86)
 
@@ -49,5 +49,5 @@ A Full Stack AI Image Generating App built using MERN.
    
 5. Tailwind CSS: TailwindCSS is a utility-first CSS framework that provides a set of ready-to-use utility classes. This approach offers flexibility and allows for rapid prototyping and customization.
    
-6. Cloudinary: Cloudinary provides a secure and scalable cloud-based storage solution for hosting and storing your image assets.
+6. Cloudinary: Cloudinary is a Software-as-a-Service (SaaS) solution for managing all your web or mobile application's media assets in the cloud. It provides a secure and scalable cloud-based storage solution for hosting and storing your image assets.
 
